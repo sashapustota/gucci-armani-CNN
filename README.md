@@ -1,21 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h1 align="center">Cultural Data Science 2023</h1> 
-  <h2 align="center">Assignment 4</h2> 
-  <h3 align="center">Visual Analytics</h3> 
-
-
-  <p align="center">
-    Aleksandrs Baskakovs
-  </p>
-</p>
-
-<!-- Assignment instructions -->
-## Assignment instructions
-
-Self-assigned project.
-
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
